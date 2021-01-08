@@ -671,6 +671,7 @@
             <at name="name"></at>
             <at name="width">87</at>
             <at name="text">ServerDialog.label.alias</at>
+            <at name="toolTipText">ServerDialog.tooltip.alias</at>
             <at name="fill">
              <object classname="com.jeta.forms.store.properties.effects.PaintProperty">
               <at name="name">fill</at>
@@ -730,6 +731,7 @@
             </at>
             <at name="columns">20</at>
             <at name="name">@RPToolsName</at>
+            <at name="toolTipText">ServerDialog.tooltip.alias</at>
             <at name="width">167</at>
             <at name="height">20</at>
            </object>
@@ -2007,6 +2009,7 @@
                  <at name="name">@useUPnP</at>
                  <at name="width">65</at>
                  <at name="text">ServerDialog.label.usepnp</at>
+                 <at name="toolTipText">ServerDialog.tooltip.useupnp</at>
                  <at name="height">16</at>
                 </object>
                </at>
